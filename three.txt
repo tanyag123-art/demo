@@ -1,0 +1,3 @@
+third file to check on modification on add command 
+
+making new changes to the file
