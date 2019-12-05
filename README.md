@@ -10,4 +10,8 @@ changes to to the advance course
 CHANGES FROM UPDATES BACNCH
 changes from branch updtes2
 
+<<<<<<< HEAD
 will not add any further changes to it
+=======
+making changes to cause conflict  from updates3 branch
+>>>>>>> updates3
