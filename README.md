@@ -17,3 +17,5 @@ adding canges from master in the same line
 =======
 addign new changes from very bad branch
 >>>>>>> very_bad
+
+ading something just like this
