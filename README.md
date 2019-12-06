@@ -19,3 +19,5 @@ addign new changes from very bad branch
 >>>>>>> very_bad
 
 ading something just like this
+
+adpates to stage
